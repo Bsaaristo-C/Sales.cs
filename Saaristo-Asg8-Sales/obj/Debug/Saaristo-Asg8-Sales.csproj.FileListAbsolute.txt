@@ -1,0 +1,11 @@
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\bin\Debug\Saaristo-Asg8-Sales.exe.config
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\bin\Debug\Saaristo-Asg8-Sales.exe
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\bin\Debug\Saaristo-Asg8-Sales.pdb
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo-Asg8-Sales.csproj.AssemblyReference.cache
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo-Asg8-Sales.csproj.SuggestedBindingRedirects.cache
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo_Asg8_Sales.Form1.resources
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo_Asg8_Sales.Properties.Resources.resources
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo-Asg8-Sales.csproj.GenerateResource.cache
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo-Asg8-Sales.csproj.CoreCompileInputs.cache
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo-Asg8-Sales.exe
+C:\Users\brian\source\repos\Saaristo-Asg8-Sales\obj\Debug\Saaristo-Asg8-Sales.pdb
